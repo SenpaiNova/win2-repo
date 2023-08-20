@@ -8,3 +8,13 @@ body {
     background-color: aqua;
     color: white;
 }
+
+.banner {
+    height: 200px;
+    background-color: coral;
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
